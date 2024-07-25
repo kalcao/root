@@ -4,7 +4,7 @@ root4all is a script help you to get root privilages on server where it is denie
 Enjoy!
 
 # Installation
-You can simply install `root4all` by following these ocmmands.
+You can simply install `root4all` by following these commands.
 
 ```sh
 git clone https://github.com/kalcao/root4all
